@@ -52,7 +52,7 @@ The dashboard is designed for stakeholders to quickly monitor KPIs, identify gro
 - Several states show high sales but relatively lower profit margins, indicating cost or pricing inefficiencies  
 - Sales forecasting reveals demand fluctuations useful for short-term planning  
 
-<img src="Sales Overview Page.png" width="900"/>
+<img src="Sales_Overview.png" width="900"/>
 <img src="Sales_Forecast_Page.png" width="900"/>
 
 ---
