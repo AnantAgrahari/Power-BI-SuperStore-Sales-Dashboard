@@ -53,7 +53,7 @@ The dashboard is designed for stakeholders to quickly monitor KPIs, identify gro
 - Sales forecasting reveals demand fluctuations useful for short-term planning  
 
 <img src="Sales Overview Page.png" width="900"/>
-<img src="Sales Forecast Page.png" width="900"/>
+<img src="Sales_Forecast_Page.png" width="900"/>
 
 ---
 
