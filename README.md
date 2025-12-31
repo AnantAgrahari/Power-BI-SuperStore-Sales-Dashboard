@@ -56,7 +56,7 @@ The dashboard is designed for stakeholders to quickly monitor KPIs, identify gro
 
 ## ▶️ How to Use
 1. Download the Power BI file:  
-   **[Sales Forecast and Store Analysis.pbix](Sales Forecast and Store Analysis.pbix)**
+   **[Sales Forecast and Store Analysis.pbix](Sales_Forecast_and_Store_Analysis.pbix)**
 2. Open the file in **Power BI Desktop**
 3. Refresh the dataset if required
 4. Use slicers to explore insights by:
